@@ -199,7 +199,7 @@ following environment variables to ascertain your credentials:
 
 Credentials and other boto-related settings can also be stored in a
 boto config file.  See `this`_ for details.
-
+AKULAEV
 .. _Contributing Guidelines: https://github.com/boto/boto/blob/develop/CONTRIBUTING
 .. _Porting Guide: http://boto.readthedocs.org/en/latest/porting_guide.html
 .. _pip: http://www.pip-installer.org/
